@@ -1,4 +1,4 @@
- ㅤ ㅤ ㅤㅤ[![GIF](https://github.com/Akshayxt/Akshayxt/blob/main/Akshayxt.gif)](https://github.com/akshayxt)
+ ㅤ ㅤ ㅤㅤ[![GIF](https://github.com/Akshayxt/Akshayxt/blob/main/Akshayxt.gif)](https://github.com/ayanokozii)
    [![Team_xt�](https://github-stats-alpha.vercel.app/api?username=Akshayxt "Akshayxt")](https://github-stats-alpha.vercel.app/api?username=Akshayxt "Akshayxt")
                                                           
   
@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <a href="https://github.com/Akshayxt">
+  <a href="https://github.com/ayanokozii">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshayxt#version3"/>
   </a>
 </p>
@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 # Github Streak ☠︎︎
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Akshayxt/RAXMUSICMUSICMUSICMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ayanokozii/RAXMUSICMUSICMUSICMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
